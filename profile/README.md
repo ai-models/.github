@@ -9,8 +9,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Apache 2 License][license-shield]][license-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -19,7 +17,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">AIModels by VisionInit/h3>
+<h3 align="center">AIModels by VisionInit</h3>
 
   <p align="center">
     We are developing a secure and easy to use suite of software for AI Model discovery and use!
@@ -28,8 +26,6 @@
     <a href="https://github.com/visioninit/ai-models-cli"><strong>AI Models GUI</strong></a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
