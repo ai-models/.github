@@ -35,8 +35,8 @@
     <li>
         Ways to interact
       <ul>
-        <li><a href="#cli">Command Line</a></li>
-        <li><a href="#desktop-app">Desktop App</a></li>
+        <li><a href="#aimodels-cli">AIModels [CLI]</a></li>
+        <li><a href="#ai-model-manager-desktop-app">AI Model Manager [Desktop App]</a></li>
       </ul>
     </li>
     <li>
@@ -49,7 +49,7 @@
   </ol>
 
 <!-- CLI -->
-### AIModels Command Line Interface
+### AIModels CLI
 
 [![Product Name Screen Shot][product-screenshot]](https://aimodels.org)
 
