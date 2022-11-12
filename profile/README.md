@@ -30,7 +30,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-        Ways to interact
+        Projects In Development
       <ul>
         <li><a href="#aimodels-cli">AIModels [CLI]</a></li>
         <li><a href="#ai-model-manager-desktop-app">AI Model Manager [Desktop App]</a></li>
