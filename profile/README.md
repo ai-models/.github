@@ -32,10 +32,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Clients</a>
+      <a href="#about the project">Clients</a>
       <ul>
-        <li><a href="#cli">CLI</a></li>
-        <li><a href="#gui">Desktop App</a></li>
+        <li><a href="#CLI">CLI</a></li>
+        <li><a href="#Desktop App">Desktop App</a></li>
       </ul>
     </li>
     <li>
@@ -50,6 +50,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Clients for interacting with AIModels.org
+
 <!-- CLI -->
 ### Command Line Interface
 
