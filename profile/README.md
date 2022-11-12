@@ -35,8 +35,8 @@
     <li>
         Ways to interact
       <ul>
-        <li><a href="#CLI">Command Line</a></li>
-        <li><a href="#Desktop App">Desktop App</a></li>
+        <li><a href="#cli">Command Line</a></li>
+        <li><a href="#desktop-app">Desktop App</a></li>
       </ul>
     </li>
     <li>
@@ -47,9 +47,6 @@
     </li>
  
   </ol>
-
-<!-- ABOUT THE PROJECT -->
-## Clients for interacting with AIModels.org
 
 <!-- CLI -->
 ### AIModels Command Line Interface
