@@ -30,9 +30,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <ul>
+      Mission and Goals
+    </li>
+    <li>
         Ways to interact
-        <li><a href="#CLI">CLI</a></li>
+      <ul>
+        <li><a href="#CLI">Command Line</a></li>
         <li><a href="#Desktop App">Desktop App</a></li>
       </ul>
     </li>
@@ -42,6 +45,7 @@
         <li><a href="#prerequisites">https://aimodels.org</a></li>
       </ul>
     </li>
+ 
   </ol>
 
 <!-- ABOUT THE PROJECT -->
