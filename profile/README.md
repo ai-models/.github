@@ -23,8 +23,8 @@
     <li>
         Desktop and CLI applications
       <ul>
-        <li><a href="#aimodels-cli">AIModels [CLI]</a></li>
-        <li><a href="#ai-model-manager-desktop-app">AI Model Manager [Desktop App]</a></li>
+        <li><a href="#aimodels-cli">AI Model Manager CLI</a> [<a href="https://github.com/visioninit/ai-models-cli">Repository</a>]</li>
+        <li><a href="#ai-model-manager-desktop-app">AI Model Manager Desktop</a></li>
       </ul>
     </li>
     <li>
@@ -45,6 +45,8 @@
 ### AIModels CLI
 
 [![Product Name Screen Shot][product-screenshot]](https://aimodels.org)
+
+[ <a href="https://github.com/visioninit/ai-models-cli">Repository</a> ]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
