@@ -10,7 +10,7 @@
 
 <h3 align="center">AIModels by VisionInit</h3>
   <p align="center">
-    We are developing a secure and easy to use suite of software for AI Model discovery and use!
+  We are developing a secure and easy to use suite of software for AI Model discovery and use!<br>Download and install model once, and use anywhere!<br>Developers, this means not having to manage extra code and juggling model files.
     <br />
     <a href="https://github.com/visioninit/ai-models-cli"><strong>AI Models CLI</strong></a> - 
     <a href="https://github.com/visioninit/ai-model-manager"><strong>AI Models GUI</strong></a>
