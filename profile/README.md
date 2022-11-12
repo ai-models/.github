@@ -18,11 +18,10 @@
   </a>
 
 <h3 align="center">AIModels by VisionInit</h3>
-
   <p align="center">
     We are developing a secure and easy to use suite of software for AI Model discovery and use!
     <br />
-    <a href="https://github.com/visioninit/ai-models-cli"><strong>AI Models CLI</strong></a>
+    <a href="https://github.com/visioninit/ai-models-cli"><strong>AI Models CLI</strong></a> - 
     <a href="https://github.com/visioninit/ai-models-cli"><strong>AI Models GUI</strong></a>
   </p>
 </div>
@@ -32,7 +31,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about the project">Clients</a>
       <ul>
         <li><a href="#CLI">CLI</a></li>
         <li><a href="#Desktop App">Desktop App</a></li>
