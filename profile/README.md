@@ -30,9 +30,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      Mission and Goals
-    </li>
-    <li>
         Ways to interact
       <ul>
         <li><a href="#aimodels-cli">AIModels [CLI]</a></li>
@@ -45,7 +42,9 @@
         <li><a href="#prerequisites">https://aimodels.org</a></li>
       </ul>
     </li>
- 
+    <li>
+      <a href="#contact">Contact Information</a>
+    </li> 
   </ol>
 
 <!-- CLI -->
