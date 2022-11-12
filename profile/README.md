@@ -65,6 +65,7 @@ The mission is to provide the best user and development experience for retreivin
   <ul>
     <li>Hash verification</li>
     <li>File scanning for anomolies</li>
+    <li>Check mutability of links (github release vs file on hosting provider)
     <li>Publisher verification</li>
     <ul>
       <li>Phone</li>
@@ -73,6 +74,15 @@ The mission is to provide the best user and development experience for retreivin
       <li>Organization verification</li>
     </ul>
   </ul>
+  <li>App Goals</li>
+  <ul>
+    <li>To be the adjunt to Hugging Face in a way PIP and NPM (where people consume) compliment Github (where people develop)</li>
+    <li>Excellent discovery / preview facilities, to understand what a model provides</li>
+  </ul>
+  <li>Website Goals</li>
+  <ul>
+    <li>Build to fit existing use cases</li>
+    <li>Explore ways to serve organizations</li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
