@@ -51,7 +51,9 @@
 <!-- DESKTOP APP -->
 ### AI Model Manager (Desktop App)
 
-![AI Model Manager](https://user-images.githubusercontent.com/654993/201464617-0e7a4b97-e2b5-45c5-a4d6-69d37345248e.png)
+<p align="center>
+<img width=600 src="https://user-images.githubusercontent.com/654993/201464617-0e7a4b97-e2b5-45c5-a4d6-69d37345248e.png">
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
