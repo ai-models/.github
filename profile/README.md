@@ -27,17 +27,17 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-  <summary>Table of Contents</summary>
+  <summary>Projects in Development</summary>
   <ol>
     <li>
-        Projects In Development
+        Desktop and CLI applications
       <ul>
         <li><a href="#aimodels-cli">AIModels [CLI]</a></li>
         <li><a href="#ai-model-manager-desktop-app">AI Model Manager [Desktop App]</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">AI Model Registry</a>
+      <a href="">AI Model Registry </a>
       <ul>
         <li><a href="#prerequisites">https://aimodels.org</a></li>
       </ul>
