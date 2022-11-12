@@ -50,14 +50,14 @@
 ## Clients for interacting with AIModels.org
 
 <!-- CLI -->
-### Command Line Interface
+### AIModels Command Line Interface
 
 [![Product Name Screen Shot][product-screenshot]](https://aimodels.org)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DESKTOP APP -->
-### Desktop App
+### AI Model Manager (Desktop App)
 
 [![Product Name Screen Shot][product-screenshot]](https://aimodels.org)
 
