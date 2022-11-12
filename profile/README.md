@@ -49,16 +49,16 @@
 
 
 <!-- ABOUT THE PROJECT -->
-### Clients for interacting with AIModels.org
+## Clients for interacting with AIModels.org
 <!-- CLI -->
-## Command Line Interface
+### Command Line Interface
 
 [![Product Name Screen Shot][product-screenshot]](https://aimodels.org)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DESKTOP APP -->
-## Desktop App
+### Desktop App
 
 [![Product Name Screen Shot][product-screenshot]](https://aimodels.org)
 
@@ -67,7 +67,7 @@
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
