@@ -27,7 +27,6 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -44,7 +43,6 @@
       </ul>
     </li>
   </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 ## Clients for interacting with AIModels.org
