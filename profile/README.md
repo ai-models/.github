@@ -32,38 +32,35 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Clients</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#cli">CLI</a></li>
+        <li><a href="#gui">Desktop App</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">AI Model Registry</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">https://aimodels.org</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### Clients for interacting with AIModels.org
+<!-- CLI -->
+## Command Line Interface
 
 [![Product Name Screen Shot][product-screenshot]](https://aimodels.org)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- DESKTOP APP -->
+## Desktop App
 
-
-### Built With
-
-* [![Vue][Vue.js]][Vue-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![Product Name Screen Shot][product-screenshot]](https://aimodels.org)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
