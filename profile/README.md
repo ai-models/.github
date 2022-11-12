@@ -64,7 +64,7 @@ The mission is to provide the best user and development experience for retreivin
   <li>Security Goals</li>
   <ul>
     <li>Hash verification</li>
-    <li>File scanning for anomolies<li>
+    <li>File scanning for anomolies</li>
     <li>Publisher verification</li>
     <ul>
       <li>Phone</li>
