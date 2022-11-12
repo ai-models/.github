@@ -32,6 +32,7 @@
   <ol>
     <li>
       <ul>
+        Ways to interact
         <li><a href="#CLI">CLI</a></li>
         <li><a href="#Desktop App">Desktop App</a></li>
       </ul>
