@@ -116,7 +116,7 @@ The mission is to provide the best user and development experience for retreivin
 <!-- CONTACT -->
 ## Contact
 
-Justin Riddiough - contact@aimodels.org
+Justin Riddiough - contact@aimodels.org (note, I set it up but didn't enable it before! Oops. If you tried to reach out, please try again)
 
 Personal Link: [https://visioninit.dev](https://visioninit.dev)
 
