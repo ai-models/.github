@@ -6,7 +6,7 @@
   We are developing a secure and easy to use suite of software for AI Model discovery and use!<br>Download and install model once, and use anywhere!<br>Developers, this means not having to manage extra code and juggling model files.
     <br />
     <a href="https://github.com/visioninit/aimm"><strong>AI Models CLI</strong></a> - 
-    <a href="https://github.com/visioninit/ai-model-manager"><strong>AI Models GUI</strong></a>
+    <a href="https://github.com/visioninit/aimm-gui"><strong>AI Models GUI</strong></a>
   </p>
 </div>
 
@@ -16,8 +16,8 @@
     <li>
         Desktop and CLI applications
       <ul>
-        <li><a href="#aimm-aimodels-cli">AIMM - AI Model Manager CLI</a> [<a href="https://github.com/visioninit/aimm">Repository</a>]</li>
-        <li><a href="#ai-model-manager-desktop-app">AI Model Manager Desktop</a></li>
+        <li><a href="#aimm-aimodels-cli">AIMM - AI Model Manager CLI (alpha)</a> [<a href="https://github.com/visioninit/aimm">Repository</a>]</li>
+        <li><a href="#aimm-gui">AIMM - AI Model Manager Desktop (wip)</a></li>
       </ul>
     </li>
     <li>
@@ -71,7 +71,7 @@ Run 'aimm help [command]' for more information on a command.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DESKTOP APP -->
-### AI Model Manager (Desktop App)
+### AIMM GUI
 
 <p align="center">
 <img width="500" src="https://user-images.githubusercontent.com/654993/201464617-0e7a4b97-e2b5-45c5-a4d6-69d37345248e.png">
