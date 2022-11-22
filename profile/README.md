@@ -21,7 +21,7 @@
       </ul>
     </li>
     <li>
-      <a href="">AI Model Registry </a>
+      AI Model Registry
       <ul>
         <li><a href="#prerequisites">https://aimodels.org</a></li>
       </ul>
