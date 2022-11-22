@@ -23,7 +23,7 @@
     <li>
       AI Model Registry
       <ul>
-        <li><a href="#prerequisites">https://aimodels.org</a></li>
+        <li><a href="https://aimodels.org">https://aimodels.org</a></li>
       </ul>
     </li>
     <li>
