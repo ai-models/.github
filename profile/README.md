@@ -90,7 +90,7 @@ I'm a self taught developer who started the journey with a Commodore Vic-20 back
 
 |  FFtF | Nyan Cat Award | ITIL |
 | --- | --- | --- |
-| <img src="../../../blob/master/profile/fftf.png?raw=true" width=100> | <img src="../../../blob/master/profile/fftf2.jpg?raw=true" width=100> |<img src="../../../blob/master/profile/itil.JPG?raw=true" width=100>
+| <img src="../../../visioninit/.github/blob/master/profile/fftf.png?raw=true" width=100> | <img src="../../../visioninit/.github/blob/master/profile/fftf2.jpg?raw=true" width=100> |<img src="../../../blob/master/profile/itil.JPG?raw=true" width=100>
 
 You can learn more about me at my [portfolio site](https://visioninit.dev)
 
