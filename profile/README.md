@@ -52,11 +52,19 @@ Progress since October 9th (start date)
 - aimodels.org registry website | Contributors: [@A7medmasry](https://github.com/A7medmasry), [@moinakmalkhan Moin Khan](https://github.com/moinakmalkhan)
 - aimm app alpha version | linux, mac, win builds | Contributors: [@Rayrsn](https://github.com/Rayrsn)
 - developed relationships with AI app developers want to use this
+- aimm gui that is beautiful and articulated (not connected to api yet)
 - docs.aimodels.org documentation site
 
-|  FFtF | Nyan Cat Award | ITIL |
-| --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf.png?raw=true" height=300> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf2.jpg?raw=true" height=300> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/itil.JPG?raw=true" height=300> |
+<div align="center"> 
+  
+|  AIModels.org | AIMM CLI |
+| --- | --- |
+| <img src="https://user-images.githubusercontent.com/654993/204371615-f1b49973-5105-488e-8e24-e47a18927c53.png" height=300> | <img src="https://raw.githubusercontent.com/visioninit/aimm/main/resources/docs/terminal.gif" height=300> |
+  | <b>AIMM GUI</b> | <b>Docs</b> |
+| <img src="https://aimodelmanager.com/img/demo-screen-1.jpg" height=300> | <img src="https://user-images.githubusercontent.com/654993/204372174-3869d4de-45be-4951-95d2-573b6c374aaa.png" height=300> | 
+
+</div>
+
 <!-- ROADMAP -->
 
 ### Development Roadmap
