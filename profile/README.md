@@ -33,7 +33,7 @@
 - Users could save huge amounts of disk space
 - For developers, less code to manage of downloading and installing models
 
-<h3>AI Models will be the most secure way to download and work with AI Models.</h3>
+<h4>AI Models will be the most secure way to download and work with AI Models.</h4>
 
 <!-- Mission -->
 
