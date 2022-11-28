@@ -6,8 +6,9 @@
 AI Models will be the most secure way to download and work with AI Models.
 We fit the role of 'pip' or 'npm' for AI models.
 
-Install a model once, use everywhere. Save huge amounts of disk space.
-For developers, this means less code to manage for downloading and installing models.
+- Install a model once, use everywhere.
+- Save huge amounts of disk space
+- For developers, less code to manage of downloading and installing models
 
 <p align='center'>
 <a href="https://aimodels.org"><strong>AIModels.org website</strong></a> -
