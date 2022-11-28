@@ -59,7 +59,7 @@ The mission is to provide the best user and development experience for retreivin
  |
 [January]
  |
- |- More robust interface for user accounts submitions [AIModels.org]
+ |- More robust interface for user accounts submissions [AIModels.org]
  |- User profiles to show involvement with models [AIModels.org]
  |- User validation options (phone, social media, etc) [AIModels.org]
  |
@@ -79,6 +79,9 @@ The mission is to provide the best user and development experience for retreivin
   	  More tools for model evaluation (like compare)
  	
 ```
+
+Preview of Security tab [preview](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png)
+
 
 <!-- ABOUT ME -->
 ## About me
