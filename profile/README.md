@@ -3,7 +3,7 @@
 
 ## AIModels by VisionInit
 
-AI Models will be the most secure way to download and work with AI Models.
+AI Models will be the most secure way to download and work with AI Models.<br><br>
 We fit the role of 'pip' or 'npm' for AI models.
 
 - Install a model once, use everywhere.
