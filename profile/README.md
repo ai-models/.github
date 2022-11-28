@@ -14,19 +14,6 @@
   <summary>Projects in Development</summary>
   <ol>
     <li>
-        Desktop and CLI applications
-      <ul>
-        <li><a href="#aimm-aimodels-cli">AIMM - AI Model Manager CLI (alpha)</a> [<a href="https://github.com/visioninit/aimm">Repository</a>]</li>
-        <li><a href="#aimm-gui">AIMM - AI Model Manager Desktop (wip)</a></li>
-      </ul>
-    </li>
-    <li>
-      AI Model Registry
-      <ul>
-        <li><a href="https://aimodels.org">https://aimodels.org</a></li>
-      </ul>
-    </li>
-    <li>
       <a href="#mission-and-goals">Mission & Goals</a>
     </li> 
     <li>
@@ -36,51 +23,6 @@
       <a href="#contact">Contact Information</a>
     </li> 
   </ol>
-
-<!-- CLI -->
-### AIMM AIModels CLI
-
-```
-Usage: aimm [command] [options]
-
-Current Dir:
-  init                                        Initialize aimodels.json.
-  add <model_name>:[version]                  Add a model to aimodels.json.
-  remove <model_name>:[version]               Remove a model from aimodels.json.
-
-System Wide:
-  list                                        List all models.
-  info <model_name>:[version]                 Get info about a model.
-  install <model_name>:[version]              Install a model.
-  uninstall <model_name>:[version]            Uninstall a model.
-  credentials <user>@<domain>                 Set credentials.
-
-Search:
-  search <query>                              Search for a model.
-  search <query> --include-adult              Search for a model and include adult results.
-  search <query> --only-adult                 Search for a model and only include adult results.
-
-Options:
-  --install-completion          Install completion for the current shell.
-  --show-completion             Show completion for the current shell, to copy it or customize
-                                the installation.
-  --help                        Show this message and exit.
-
-Run 'aimm help [command]' for more information on a command.
-```
-
-[ <a href="https://github.com/visioninit/ai-models-cli">Repository</a> ]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- DESKTOP APP -->
-### AIMM GUI
-
-<p align="center">
-<img width="500" src="https://user-images.githubusercontent.com/654993/201464617-0e7a4b97-e2b5-45c5-a4d6-69d37345248e.png">
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Mission and Goals -->
 ### Mission And Goals
