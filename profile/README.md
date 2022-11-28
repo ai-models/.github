@@ -53,22 +53,19 @@ The mission is to provide the best user and development experience for retreivin
 > - Internationalization [AIMM, AIModels.org]
 > - Automate Model Scans [AIModels.org]
 > - Automate Image Previews [AIModels.org]
-><br>
->
+
 ` 2023 January `
 ><br>
 >
-> - Model Trust Validation (phone, social media, etc) [preview image](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png) [AIModels.org] 
+> - Model Trust Validation (phone, social media, etc) [Preview](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png) [AIModels.org] 
 > - More robust interface for user submissions [AIModels.org]
 > - User profiles to show involvement with models [AIModels.org]
-><br>
->
+
 ` Feburary `
 > <br>
 >
-> - Integrate frontend GUI [AIMM]
-> <br>
->
+> - Integrate frontend GUI [AIMM] [Preview](https://aimodelmanager.com/img/demo-screen-1.jpg)
+
 ` Beyond `
 ><br>
 >
@@ -81,10 +78,15 @@ The mission is to provide the best user and development experience for retreivin
 > -- Allow users to sell models
 > -- Packaging Custom Models (blends)
 > - - More tools for model evaluation (like compare)
-><br>
 
-Preview of GUI [preview image](https://aimodelmanager.com/img/demo-screen-1.jpg)
-Sponsoring would help immensely towards realizing these developments!
+<div align=center>
+  
+|  Validations | GUI |
+| --- | --- | 
+| <img src="https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png" height=300> | <img src="https://aimodelmanager.com/img/demo-screen-1.jpg" height=300> |
+  
+Sponsoring would help immensely towards realizing these developments!  
+</div>
 
 <!-- ABOUT ME -->
 ## About me
@@ -99,7 +101,7 @@ Self taught, tarted the journey with a Commodore Vic-20 back in the late 80's. I
 
 |  FFtF | Nyan Cat Award | ITIL |
 | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf.png?raw=true" width=100> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf2.jpg?raw=true" width=100> |<img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/itil.JPG?raw=true" width=100>
+| <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf.png?raw=true" width=100> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf2.jpg?raw=true" width=100> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/itil.JPG?raw=true" width=100> |
 
 You can learn more about me at my [portfolio site](https://visioninit.dev)
 
