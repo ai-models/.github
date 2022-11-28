@@ -28,7 +28,10 @@
     </li>
     <li>
       <a href="#mission-and-goals">Mission & Goals</a>
-    </li>     
+    </li> 
+    <li>
+      <a href="#development-roadmap">Development Roadmap</a>
+    </li>  
     <li>
       <a href="#contact">Contact Information</a>
     </li> 
@@ -111,7 +114,44 @@ The mission is to provide the best user and development experience for retreivin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ROADMAP -->
+## Development Roadmap
 
+```
+
+[2022]
+ |
+[December]
+ |
+ |- Alpha launch & Announcements
+ |- Internationalization [AIMM, AIModels.org]
+ |- Automate Model Scans [AIModels.org]
+ |- Automate Image Previews [AIModels.org]
+ |
+[2023]
+ |
+[January]
+ |
+ |- More robust interface for user accounts submitions [AIModels.org]
+ |- User profiles to show involvement with models [AIModels.org]
+ |- User validation options (phone, social media, etc) [AIModels.org]
+ |
+[Feburary]
+ |
+ |- Integrate frontend GUI [AIMM]
+ |
+[Beyond] 
+ |
+ |-	Registry / Repository services
+ |			Host 'white-label' custom repositories
+ | 			Offer distribution of site software
+ |
+ |-	Website (aimodels.org)
+ |		Allow users to sell models
+ |		Packaging Custom Models (blends)
+ |		More tools for model evaluation (like compare)
+ *	
+```
 
 <!-- CONTACT -->
 ## Contact
