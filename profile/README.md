@@ -32,6 +32,7 @@
 - Install a model once, and use everywhere
 - Users could save huge amounts of disk space
 - For developers, less code to manage of downloading and installing models
+- aimodels.json used like requirements.txt / package.json
 
 <!-- Mission -->
 
