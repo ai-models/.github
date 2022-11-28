@@ -16,6 +16,9 @@
       <a href="#mission">Mission & Goals</a>
     </li> 
     <li>
+      <a href="#momentum">Momentum</a>
+    </li>
+    <li>
       <a href="#development-roadmap">Development Roadmap</a>
     </li>
     <li>
@@ -42,6 +45,18 @@ The mission is to provide the best user and development experience for retreivin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Momentum
+
+Progress since October 9th (start date)
+
+- aimodels.org registry website | Contributors: [@A7medmasry](https://github.com/A7medmasry), [@moinakmalkhan Moin Khan](https://github.com/moinakmalkhan)
+- aimm app alpha version | linux, mac, win builds | Contributors: [@Rayrsn](https://github.com/Rayrsn)
+- developed relationships with AI app developers want to use this
+- docs.aimodels.org documentation site
+
+|  FFtF | Nyan Cat Award | ITIL |
+| --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf.png?raw=true" height=300> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf2.jpg?raw=true" height=300> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/itil.JPG?raw=true" height=300> |
 <!-- ROADMAP -->
 
 ### Development Roadmap
