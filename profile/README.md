@@ -58,9 +58,9 @@ The mission is to provide the best user and development experience for retreivin
 ` 2023 January `
 ><br>
 >
-> - More robust interface for user accounts submissions [AIModels.org]
+> - Model Trust Validation (phone, social media, etc) [preview image](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png) [AIModels.org] 
+> - More robust interface for user submissions [AIModels.org]
 > - User profiles to show involvement with models [AIModels.org]
-> - User validation options (phone, social media, etc) [AIModels.org]
 ><br>
 >
 ` Feburary `
@@ -83,7 +83,6 @@ The mission is to provide the best user and development experience for retreivin
 > - - More tools for model evaluation (like compare)
 ><br>
 
-Preview of Security tab [preview image](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png)
 Preview of GUI [preview image](https://aimodelmanager.com/img/demo-screen-1.jpg)
 Sponsoring would help immensely towards realizing these developments!
 
