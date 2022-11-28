@@ -94,7 +94,10 @@ Preview of Security tab [preview](https://user-images.githubusercontent.com/6549
 
 <!-- ABOUT ME -->
 ## About me
-I'm a self taught developer who started the journey with a Commodore Vic-20 back in the late 80's. I've been an advocate of free software and open source for many years, and have sought to bring those values into the contributions I provide. Some of the achievements I'm proud of:
+
+Thanks for reading this far! I'm Justin, a software engineer with 20+ years of experience in collaborating with in-house software developers, technologists, and strategists through the development and deployment of robust, scalable web applications and customer-facing software.
+
+Self taught, tarted the journey with a Commodore Vic-20 back in the late 80's. I've been an advocate of free software and open source for many years, and have sought to bring those values into the contributions I provide. Some of the achievements I'm proud of:
 
 - Fight For the Future awarded me the Nyan Cat Medal of Internet Freedom
 - Earned an IT Service Management ITIL Certification while employeed with Stanford Graduate School of Business
