@@ -23,7 +23,10 @@ Third party software wont need to manage independent code to download & install 
     </li> 
     <li>
       <a href="#development-roadmap">Development Roadmap</a>
-    </li>  
+    </li>
+    <li>
+      <a href="#about-me">About Me</a>
+    </li> 
     <li>
       <a href="#contact">Contact Information</a>
     </li> 
@@ -72,15 +75,30 @@ The mission is to provide the best user and development experience for retreivin
  |
  |- Website (aimodels.org)
  |	  Allow users to sell models
- |	  Packaging Custom Models (blends)
- |	  More tools for model evaluation (like compare)
- *	
+ *	  Packaging Custom Models (blends)
+  	  More tools for model evaluation (like compare)
+ 	
 ```
+
+<!-- ABOUT ME -->
+## About me
+I'm a self taught developer who started the journey with a Commodore Vic-20 back in the late 80's. I've been an advocate of free software and open source for many years, and have sought to bring those values into the contributions I provide. Some of the achievements I'm proud of:
+
+- Fight For the Future awarded me the Nyan Cat Medal of Internet Freedom
+- IT Service Management ITIL Certification
+- Have earned thousands in bug bounties (Stanford Bug Bounty program, and others)
+
+|  FFtF | Nyan Cat Award | ITIL |
+| --- | --- | --- |
+| <img src="../../../blob/master/profile/fftf.png?raw=true" width=100> | <img src="../../../blob/master/profile/fftf2.jpg?raw=true" width=100> |<img src="../../../blob/master/profile/itil.JPG?raw=true" width=100>
+
+You can learn more about me at my [portfolio site](https://visioninit.dev)
+
 
 <!-- CONTACT -->
 ## Contact
 
-Justin Riddiough - contact@aimodels.org (note, I set it up but didn't enable it before! Oops. If you tried to reach out, please try again)
+Justin Riddiough - contact@aimodels.org 
 
 Personal Link: [https://visioninit.dev](https://visioninit.dev)
 
