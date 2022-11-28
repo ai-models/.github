@@ -57,13 +57,15 @@ Progress since October 9th (start date)
 
 <div align="center"> 
   
-|  AIModels.org | AIMM CLI |
+| AIModels.org | AIMM CLI |
 | --- | --- |
-| <img src="https://user-images.githubusercontent.com/654993/204371615-f1b49973-5105-488e-8e24-e47a18927c53.png" height=300> | <img src="https://raw.githubusercontent.com/visioninit/aimm/main/resources/docs/terminal.gif" height=300> |
-  | <b>AIMM GUI</b> | <b>Docs</b> |
-| <img src="https://aimodelmanager.com/img/demo-screen-1.jpg" height=300> | <img src="https://user-images.githubusercontent.com/654993/204372174-3869d4de-45be-4951-95d2-573b6c374aaa.png" height=300> | 
+| <div align=center><img src="https://user-images.githubusercontent.com/654993/204371615-f1b49973-5105-488e-8e24-e47a18927c53.png" height=260></div> | <div align=center><img src="https://raw.githubusercontent.com/visioninit/aimm/main/resources/docs/terminal.gif" height=260></div> |
+  | <div align=center><b>AIMM GUI</b></div> | <div align=center><b>Docs</b></div> |
+| <div align=center><img src="https://aimodelmanager.com/img/demo-screen-1.jpg" height=260></div> | <div align=center><img src="https://user-images.githubusercontent.com/654993/204372174-3869d4de-45be-4951-95d2-573b6c374aaa.png" height=260></div> | 
 
 </div>
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -110,6 +112,7 @@ Progress since October 9th (start date)
   
 Sponsoring would help immensely towards realizing these developments!  
 </div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ABOUT ME -->
 ## About me
@@ -130,6 +133,7 @@ Self taught, tarted the journey with a Commodore Vic-20 back in the late 80's. I
 
 More of my past works at [visioninit.dev](https://visioninit.dev)
 </div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
