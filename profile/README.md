@@ -1,21 +1,25 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<div align="center">
-<h3 align="center">AIModels by VisionInit</h3>
-  <p align="center">
-  We are developing a secure and easy to use suite of software for AI Model discovery and use!<br>Download and install model once, and use anywhere!<br>Developers, this means not having to manage extra code and juggling model files.
-    <br />
-    <a href="https://aimodels.org"><strong>AIModels.org website</strong></a>
-    <a href="https://github.com/visioninit/aimm"><strong>AIMM (AI Model Manager CLI)</strong></a> - 
-    <a href="https://github.com/visioninit/aimm-gui"><strong>AIMM GUI (in progress)</strong></a>
-  </p>
-</div>
+
+## AIModels by VisionInit
+
+AI Models will be the most secure way to download and work with AI Models.
+We fit the role of 'pip' or 'npm' for AI models.
+
+Install a model once, use everywhere. Save huge amounts of disk space.
+Third party software wont need to manage independent code to download & install models.
+
+<p align='center'>
+<a href="https://aimodels.org"><strong>AIModels.org website</strong></a> -
+<a href="https://github.com/visioninit/aimm"><strong>AIMM (AI Model Manager CLI)</strong></a> - 
+<a href="https://github.com/visioninit/aimm-gui"><strong>AIMM GUI (in progress)</strong></a>
+</p>
 
 <!-- TABLE OF CONTENTS -->
-  <summary>Projects in Development</summary>
-  <ol>
+
+  <ul>
     <li>
-      <a href="#mission-and-goals">Mission & Goals</a>
+      <a href="#mission">Mission & Goals</a>
     </li> 
     <li>
       <a href="#development-roadmap">Development Roadmap</a>
@@ -23,42 +27,19 @@
     <li>
       <a href="#contact">Contact Information</a>
     </li> 
-  </ol>
+  </ul>
 
-<!-- Mission and Goals -->
-### Mission And Goals
+<!-- Mission -->
+
+### Mission 
 
 The mission is to provide the best user and development experience for retreiving and using AI Models. 
-
-<ul>
-  <li>Security Goals</li>
-  <ul>
-    <li>Hash verification</li>
-    <li>File scanning for anomolies</li>
-    <li>Check mutability of links (github release vs file on hosting provider)
-    <li>Publisher verification</li>
-    <ul>
-      <li>Phone</li>
-      <li>Social Media</li>
-      <li>Credit Card verification</li>
-      <li>Organization verification</li>
-    </ul>
-  </ul>
-  <li>App Goals</li>
-  <ul>
-    <li>To be the adjunt to Hugging Face in a way PIP and NPM (where people consume) compliment Github (where people develop)</li>
-    <li>Excellent discovery / preview facilities, to understand what a model provides</li>
-  </ul>
-  <li>Website Goals</li>
-  <ul>
-    <li>Build to fit existing use cases</li>
-    <li>Explore ways to serve organizations</li>
-</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## Development Roadmap
+
+### Development Roadmap
 
 ```
 
