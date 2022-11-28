@@ -99,11 +99,14 @@ Self taught, tarted the journey with a Commodore Vic-20 back in the late 80's. I
 - Earned an IT Service Management ITIL Certification while employeed with Stanford Graduate School of Business
 - Have earned thousands in bug bounties (Stanford Bug Bounty program, and others)
 
+<div align="center">
+
 |  FFtF | Nyan Cat Award | ITIL |
 | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf.png?raw=true" width=100> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf2.jpg?raw=true" width=100> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/itil.JPG?raw=true" width=100> |
+| <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf.png?raw=true" height=200> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf2.jpg?raw=true" height=200> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/itil.JPG?raw=true" height=200> |
 
-You can learn more about me at my [portfolio site](https://visioninit.dev)
+More of my past works at [visioninit.dev](https://visioninit.dev)
+</div>
 
 <!-- CONTACT -->
 ## Contact
