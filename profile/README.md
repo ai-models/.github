@@ -33,8 +33,6 @@
 - Users could save huge amounts of disk space
 - For developers, less code to manage of downloading and installing models
 
-<h4>AI Models will be the most secure way to download and work with AI Models.</h4>
-
 <!-- Mission -->
 
 ### Mission 
@@ -46,8 +44,6 @@ The mission is to provide the best user and development experience for retreivin
 <!-- ROADMAP -->
 
 ### Development Roadmap
-
-
 
 ` 2022 December `<br>
 ><br>
