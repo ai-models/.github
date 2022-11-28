@@ -82,9 +82,7 @@ The mission is to provide the best user and development experience for retreivin
 > - - More tools for model evaluation (like compare)
 ><br>
 
-
 Preview of Security tab [preview](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png)
-
 
 <!-- ABOUT ME -->
 ## About me
@@ -102,7 +100,6 @@ Self taught, tarted the journey with a Commodore Vic-20 back in the late 80's. I
 | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf.png?raw=true" width=100> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf2.jpg?raw=true" width=100> |<img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/itil.JPG?raw=true" width=100>
 
 You can learn more about me at my [portfolio site](https://visioninit.dev)
-
 
 <!-- CONTACT -->
 ## Contact
