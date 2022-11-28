@@ -1,12 +1,13 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <div align="center">
-<h3 align="center">AIModels by VisionInit</h3> (work in progress)
+<h3 align="center">AIModels by VisionInit</h3>
   <p align="center">
   We are developing a secure and easy to use suite of software for AI Model discovery and use!<br>Download and install model once, and use anywhere!<br>Developers, this means not having to manage extra code and juggling model files.
     <br />
-    <a href="https://github.com/visioninit/aimm"><strong>AI Models CLI</strong></a> - 
-    <a href="https://github.com/visioninit/aimm-gui"><strong>AI Models GUI</strong></a>
+    <a href="https://aimodels.org"><strong>AIModels.org website</strong></a>
+    <a href="https://github.com/visioninit/aimm"><strong>AIMM (AI Model Manager CLI)</strong></a> - 
+    <a href="https://github.com/visioninit/aimm-gui"><strong>AIMM GUI (in progress)</strong></a>
   </p>
 </div>
 
