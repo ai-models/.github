@@ -78,7 +78,7 @@ The mission is to provide the best user and development experience for retreivin
 > -- Allow users to sell models
 > -- Packaging Custom Models (blends)
 > - - More tools for model evaluation (like compare)
-
+<br>
 <div align=center>
   
 |  Validations | GUI |
