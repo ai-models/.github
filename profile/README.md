@@ -1,7 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-## AIModels by VisionInit
+## <img src="https://avatars.githubusercontent.com/u/117051901?s=60&v=4" alt="Logo" width="20" height="20"> AIModels by VisionInit
 
 <p align='center'>
 <a href="https://aimodels.org"><strong>AIModels.org website</strong></a> -
