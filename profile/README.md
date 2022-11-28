@@ -97,7 +97,7 @@ Preview of Security tab [preview](https://user-images.githubusercontent.com/6549
 I'm a self taught developer who started the journey with a Commodore Vic-20 back in the late 80's. I've been an advocate of free software and open source for many years, and have sought to bring those values into the contributions I provide. Some of the achievements I'm proud of:
 
 - Fight For the Future awarded me the Nyan Cat Medal of Internet Freedom
-- IT Service Management ITIL Certification
+- Earned an IT Service Management ITIL Certification while employeed with Stanford Graduate School of Business
 - Have earned thousands in bug bounties (Stanford Bug Bounty program, and others)
 
 |  FFtF | Nyan Cat Award | ITIL |
