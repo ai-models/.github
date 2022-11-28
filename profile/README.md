@@ -142,14 +142,14 @@ The mission is to provide the best user and development experience for retreivin
  |
 [Beyond] 
  |
- |-	Registry / Repository services
- |			Host 'white-label' custom repositories
- | 			Offer distribution of site software
+ |- Registry / Repository services
+ |	  Host 'white-label' custom repositories
+ | 	  Offer distribution of site software
  |
- |-	Website (aimodels.org)
- |		Allow users to sell models
- |		Packaging Custom Models (blends)
- |		More tools for model evaluation (like compare)
+ |- Website (aimodels.org)
+ |	  Allow users to sell models
+ |	  Packaging Custom Models (blends)
+ |	  More tools for model evaluation (like compare)
  *	
 ```
 
