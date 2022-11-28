@@ -46,10 +46,7 @@ The mission is to provide the best user and development experience for retreivin
 
 
 
-` 2022 ` <br>
-><br>
->
-` December `<br>
+` 2022 December `<br>
 ><br>
 >
 > - Alpha launch & Announcements
@@ -57,10 +54,8 @@ The mission is to provide the best user and development experience for retreivin
 > - Automate Model Scans [AIModels.org]
 > - Automate Image Previews [AIModels.org]
 ><br>
-` 2023 `
-><br>
 >
-` January `
+` 2023 January `
 ><br>
 >
 > - More robust interface for user accounts submissions [AIModels.org]
