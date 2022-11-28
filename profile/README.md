@@ -83,7 +83,9 @@ The mission is to provide the best user and development experience for retreivin
 > - - More tools for model evaluation (like compare)
 ><br>
 
-Preview of Security tab [preview](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png)
+Preview of Security tab [preview image](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png)
+Preview of GUI [preview image](https://aimodelmanager.com/img/demo-screen-1.jpg)
+Sponsoring would help immensely towards realizing these developments!
 
 <!-- ABOUT ME -->
 ## About me
