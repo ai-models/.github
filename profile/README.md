@@ -74,7 +74,7 @@ Progress since October 9th (start date)
 ` 2022 December `<br>
 ><br>
 >
-> - Alpha launch & Announcements
+> - Alpha launch & Announcements (after Alpha launch, community engagement & understanding what adds value will be significant ongoing effort)
 > - Internationalization [AIMM, AIModels.org]
 > - Automate Model Scans [AIModels.org]
 > - Automate Image Previews [AIModels.org]
@@ -100,9 +100,15 @@ Progress since October 9th (start date)
 ><br> 
 >
 > - Website (aimodels.org)
-> -- Allow users to sell models
-> -- Packaging Custom Models (blends)
+> - - Allow users to sell models
+> - - Packaging Custom Models (blends)
 > - - More tools for model evaluation (like compare)
+> - - Funnel individuals of interest to community dataset efforts
+><br>
+> 
+> - AIMM (CLI + GUI Combo)
+> - - Daemon functionalities, Stable Horde
+> - - Allocate % to opt-in model training campaigns
 <br>
 <div align=center>
   
