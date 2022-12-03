@@ -90,6 +90,8 @@ Progress since October 9th (start date)
 > <br>
 >
 > - Integrate frontend GUI [AIMM] [Preview](https://aimodelmanager.com/img/demo-screen-1.jpg)
+> - Release pypi package
+> - Submit to debian packages
 
 ` Beyond `
 ><br>
