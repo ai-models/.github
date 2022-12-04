@@ -74,24 +74,24 @@ Progress since October 9th (start date)
 ` 2022 December `<br>
 ><br>
 >
-> - Alpha launch & Announcements (after Alpha launch, community engagement & understanding what adds value will be significant ongoing effort)
-> - Internationalization [AIMM, AIModels.org]
-> - Automate Model Scans [AIModels.org]
-> - Automate Image Previews [AIModels.org]
+> - [ ] Alpha launch & Announcements (after Alpha launch, community engagement & understanding what adds value will be significant ongoing effort)
+> - [ ] Internationalization [AIMM, AIModels.org]
+> - [ ] Automate Model Scans [AIModels.org]
+> - [ ] Automate Image Previews [AIModels.org]
 
 ` 2023 January `
 ><br>
 >
-> - Model Trust Validation (phone, social media, etc) [Preview](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png) [AIModels.org] 
-> - More robust interface for user submissions [AIModels.org]
-> - User profiles to show involvement with models [AIModels.org]
+> - [ ] Model Trust Validation (phone, social media, etc) [Preview](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png) [AIModels.org] 
+> - [ ] More robust interface for user submissions [AIModels.org]
+> - [ ] User profiles to show involvement with models [AIModels.org]
 
 ` Feburary `
 > <br>
 >
-> - Integrate frontend GUI [AIMM] [Preview](https://aimodelmanager.com/img/demo-screen-1.jpg)
-> - Release pypi package
-> - Submit to debian packages
+> - [ ] Integrate frontend GUI [AIMM] [Preview](https://aimodelmanager.com/img/demo-screen-1.jpg)
+> - [ ] Release pypi package
+> - [ ] Submit to debian packages
 
 ` Beyond `
 ><br>
