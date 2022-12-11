@@ -59,7 +59,7 @@ Progress since October 9th (start date)
   
 | AIModels.org | AIMM CLI |
 | --- | --- |
-| <div align=center><img src="https://user-images.githubusercontent.com/654993/204371615-f1b49973-5105-488e-8e24-e47a18927c53.png" height=260></div> | <div align=center><img src="https://raw.githubusercontent.com/visioninit/aimm/main/resources/docs/terminal.gif" height=260></div> |
+| <div align=center><img src="https://user-images.githubusercontent.com/654993/204371615-f1b49973-5105-488e-8e24-e47a18927c53.png" height=260></div> | <div align=center><img src="https://releases.aimodels.org/doc-images/overview.gif" height=260></div> |
   | <div align=center><b>AIMM GUI</b></div> | <div align=center><b>Docs</b></div> |
 | <div align=center><img src="https://aimodelmanager.com/img/demo-screen-1.jpg" height=260></div> | <div align=center><img src="https://user-images.githubusercontent.com/654993/204372174-3869d4de-45be-4951-95d2-573b6c374aaa.png" height=260></div> | 
 
