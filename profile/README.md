@@ -4,7 +4,7 @@
 ## <img src="https://avatars.githubusercontent.com/u/117051901?s=60&v=4" alt="Logo" width="20" height="20"> AIModels by VisionInit
 
 <p align='center'>
-<a href="https://aimodels.org"><strong>AIModels.org website</strong></a> -
+<a href="https://aimodels.org?github"><strong>AIModels.org website</strong></a> -
 <a href="https://github.com/visioninit/aimm"><strong>AIMM (AI Model Manager CLI)</strong></a> - 
 <a href="https://github.com/visioninit/aimm-gui"><strong>AIMM GUI (in progress)</strong></a>
 </p>
@@ -139,7 +139,7 @@ Self taught, tarted the journey with a Commodore Vic-20 back in the late 80's. I
 | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf.png?raw=true" height=300> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf2.jpg?raw=true" height=300> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/itil.JPG?raw=true" height=300> |
 
-More of my past works at [visioninit.dev](https://visioninit.dev)
+More of my past works at [visioninit.dev](https://visioninit.dev?github)
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,6 +148,6 @@ More of my past works at [visioninit.dev](https://visioninit.dev)
 
 Justin Riddiough - contact@aimodels.org 
 
-Personal Link: [https://visioninit.dev](https://visioninit.dev)
+Personal Link: [https://visioninit.dev](https://visioninit.dev?github)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
