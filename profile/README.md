@@ -76,8 +76,8 @@ Progress since October 9th (start date)
 >
 > - [ ] Alpha launch & Announcements (after Alpha launch, community engagement & understanding what adds value will be significant ongoing effort)
 > - [ ] Internationalization [AIMM, AIModels.org]
-> - [ ] Automate Model Scans [AIModels.org]
-> - [ ] Automate Image Previews [AIModels.org]
+> - [x] Automate Model Scans [AIModels.org]
+> - [x] Automate Image Previews [AIModels.org]
 
 ` 2023 January `
 ><br>
