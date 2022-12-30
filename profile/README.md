@@ -41,7 +41,7 @@
 
 ### Mission 
 
-The mission is to provide the best user and development experience for retreiving and using AI Models. 
+The mission is to provide the best user and development experience for retrieving and using AI Models. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
