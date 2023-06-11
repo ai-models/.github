@@ -30,18 +30,11 @@
   </ul>
 
 
-<h3>We fill the role of 'pip' or 'npm' for AI models.</h3>
-
-- Install a model once, and use everywhere
-- Users could save huge amounts of disk space
-- For developers, less code to manage of downloading and installing models
-- aimodels.json used like requirements.txt / package.json
-
 <!-- Mission -->
 
 ### Mission 
 
-The mission is to provide the best user and development experience for retrieving and using AI Models. 
+The mission is to provide the best directory with examples of AI Models and their outputs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
