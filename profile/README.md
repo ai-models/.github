@@ -4,9 +4,7 @@
 ## <img src="https://avatars.githubusercontent.com/u/117051901?s=60&v=4" alt="Logo" width="20" height="20"> AIModels @ aimodels.org
 
 <p align='center'>
-<a href="https://aimodels.org?github"><strong>AIModels.org website</strong></a> -
-<a href="https://github.com/visioninit/aimm"><strong>AIMM (AI Model Manager CLI)</strong></a> - 
-<a href="https://github.com/visioninit/aimm-gui"><strong>AIMM GUI (in progress)</strong></a>
+<a href="https://aimodels.org?github"><strong>AIModels.org website</strong></a> - 
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -15,12 +13,6 @@
     <li>
       <a href="#mission">Mission & Goals</a>
     </li> 
-    <li>
-      <a href="#momentum">Momentum</a>
-    </li>
-    <li>
-      <a href="#development-roadmap">Development Roadmap</a>
-    </li>
     <li>
       <a href="#about-me">About Me</a>
     </li> 
@@ -32,84 +24,14 @@
 
 <!-- Mission -->
 
-### Mission 
+### Mission & Goals
 
-The mission is to provide the best directory with examples of AI Models and their outputs.
+At AI Models, our mission is to foster collaboration and support small to medium free and open-source AI projects. We strive to provide a collaborative platform that empowers AI enthusiasts, developers, and experts to explore, compare, and showcase innovative AI models in an intuitive and accessible manner. 
+
+Through our Collaborative Backlinking Network, we aim to create a supportive community where projects can exchange high-quality backlinks, enhance visibility, and amplify their collective impact. We are committed to promoting the power of collaboration and mutual advancement while providing valuable resources, networking opportunities, and recognition to drive the growth and success of AI projects. Together, we believe in harnessing the potential of AI and making it accessible to everyone.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Momentum
-
-Progress since October 9th (start date)
-
-- aimodels.org registry website | Contributors: [@A7medmasry](https://github.com/A7medmasry), [@moinakmalkhan Moin Khan](https://github.com/moinakmalkhan)
-- aimm app alpha version | linux, mac, win builds | Contributors: [@Rayrsn](https://github.com/Rayrsn)
-- developed relationships with AI app developers want to use this
-- aimm gui that is beautiful and articulated (not connected to api yet)
-- docs.aimodels.org documentation site
-
-<div align="center"> 
-  
-| AIModels.org | AIMM CLI |
-| --- | --- |
-| <div align=center><img src="https://user-images.githubusercontent.com/654993/204371615-f1b49973-5105-488e-8e24-e47a18927c53.png" height=260></div> | <div align=center><img src="https://releases.aimodels.org/doc-images/overview.gif" height=260></div> |
-  | <div align=center><b>AIMM GUI</b></div> | <div align=center><b>Docs</b></div> |
-| <div align=center><img src="https://aimodelmanager.com/img/demo-screen-1.jpg" height=260></div> | <div align=center><img src="https://user-images.githubusercontent.com/654993/204372174-3869d4de-45be-4951-95d2-573b6c374aaa.png" height=260></div> | 
-
-</div>
-<br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-### Development Roadmap
-
-` 2022 December `<br>
-><br>
->
-> - [ ] Alpha launch & Announcements (after Alpha launch, community engagement & understanding what adds value will be significant ongoing effort)
-> - [ ] Internationalization [AIMM, AIModels.org]
-> - [x] Automate Model Scans [AIModels.org]
-> - [x] Automate Image Previews [AIModels.org]
-
-` 2023 January `
-><br>
->
-> - [ ] Model Trust Validation (phone, social media, etc) [Preview](https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png) [AIModels.org] 
-> - [ ] More robust interface for user submissions [AIModels.org]
-> - [ ] User profiles to show involvement with models [AIModels.org]
-
-` Feburary `
-> <br>
->
-> - [ ] Integrate frontend GUI [AIMM] [Preview](https://aimodelmanager.com/img/demo-screen-1.jpg)
-> - [ ] Release pypi package
-> - [ ] Submit to debian packages
-
-` Beyond `
-><br>
->
-> - Registry / Repository services
-> - - Host 'white-label' custom repositories
-> - - Offer distribution of site software
-><br> 
->
-> - Website (aimodels.org)
-> - - Allow users to sell models
-> - - Packaging Custom Models (blends)
-> - - More tools for model evaluation (like compare)
-> - - Funnel individuals of interest to community dataset efforts
-><br>
-> 
-> - AIMM (CLI + GUI Combo)
-> - - Daemon functionalities, Stable Horde
-> - - Allocate % to opt-in model training campaigns
-<br>
-<div align=center>
-  
-|  Validations | GUI |
-| --- | --- | 
-| <img src="https://user-images.githubusercontent.com/654993/204220051-e5148dfb-63a0-487b-99b6-a87d5fc7eb7f.png" height=300> | <img src="https://aimodelmanager.com/img/demo-screen-1.jpg" height=300> |
   
 Sponsoring would help immensely towards realizing these developments!  
 </div>
