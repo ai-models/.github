@@ -3,7 +3,7 @@
 ## <img src="https://avatars.githubusercontent.com/u/117051901?s=60&v=4" alt="Logo" width="20" height="20"> AI Models
 
 <p align='center'>
-<a href="https://aimodels.org?github"><strong>AI Models</strong></a> - 
+<a href="https://aimodels.org?github"><strong>AI Models</strong></a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
