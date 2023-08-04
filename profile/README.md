@@ -49,10 +49,6 @@ Self taught, started the journey with a Commodore Vic-20, and slowly built a tog
 
 <div align="center">
 
-|  FFtF | Nyan Cat Award | ITIL |
-| --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf.png?raw=true" height=300> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/fftf2.jpg?raw=true" height=300> | <img src="https://raw.githubusercontent.com/visioninit/.github/master/profile/itil.JPG?raw=true" height=300> |
-
 More of my past works at [visioninit.dev](https://visioninit.dev?github)
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
